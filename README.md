@@ -1,5 +1,6 @@
-# Huffman-Coding
-
+### Ex.No:11
+### DATE: 
+# <p align="center"> Huffman-Coding</p> 
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
@@ -22,9 +23,7 @@ Calculate frequency of occurrence.
 
 ### Step5:
 Print the characters and its huffmancode.
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
